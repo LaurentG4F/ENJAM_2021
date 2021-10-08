@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2956245481	Play_Horn			\Default Work Unit\Play_Horn	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	808036983	251611__inplay__clown-horn	C:\Users\barie\Desktop\ENJMAN_2021\Wwise_ENJAM\Wwise_ENJAM\.cache\Windows\SFX\251611__inplay__clown-horn_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Test\251611__inplay__clown-horn		184384
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>C:\Users\barie\Desktop\ENJMAN_2021\Wwise_ENJAM\Wwise_ENJAM\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\barie\Desktop\ENJMAN_2021\Wwise_ENJAM\Wwise_ENJAM\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\barie\Desktop\ENJMAN_2021\ENJAM_2021\Assets\StreamingAssets\Audio\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\barie\Desktop\ENJMAN_2021\Wwise_ENJAM\Wwise_ENJAM\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="2754342975">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1661994096" Language="SFX" Hash="841135781">
+			<ObjectPath>\SoundBanks\Default Work Unit\Soundbank</ObjectPath>
+			<ShortName>Soundbank</ShortName>
+			<Path>Soundbank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2956245481" Name="Play_Horn" ObjectPath="\Events\Default Work Unit\Play_Horn" DurationType="OneShot" DurationMin="1.044898" DurationMax="1.044898">
+					<IncludedMemoryFiles>
+						<File Id="808036983" Language="SFX">
+							<ShortName>251611__inplay__clown-horn.wav</ShortName>
+							<Path>SFX\251611__inplay__clown-horn_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
